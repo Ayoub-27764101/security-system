@@ -1,0 +1,10 @@
+# Proteus: per-user workspace and backup files
+*.workspace
+*.pdsbak
+Project Backups/
+Last Loaded*
+
+# Arduino build output
+build/
+*.elf
+*.o
